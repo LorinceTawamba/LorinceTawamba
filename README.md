@@ -1,4 +1,4 @@
-# Hi 👋, I'm Lorince Tawamba 
+# Hi 👋, I'm Lorince Tawamba <p align="center"> Ce texte sera centré</p>
 
 Il existe plusieurs façons de centrer du texte dans Markdown, en fonction du contexte et du résultat souhaité. Vous pouvez également utiliser 
 
