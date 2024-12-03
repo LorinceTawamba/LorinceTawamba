@@ -2,6 +2,12 @@
 
 <h2 align="center">A passionate software engineer from Cameroon living in Canada</h2> 
 
+
+![GitHub search hit counter](https://img.shields.io/github/search/:user/:repo/:query)
+
+
+
+
 [![Image of https://github.com/gayanvoice/my-profile-views-counter](https://github.com/gayanvoice/my-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/gayanvoice/my-profile-views-counter)
 
 
