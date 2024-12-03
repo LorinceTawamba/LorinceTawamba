@@ -6,3 +6,5 @@
 
 
 [![Lorince Tawamba profile views](https://u8views.com/api/v1/github/profiles/98036133/views/day-week-month-total-count.svg)](https://u8views.com/github/LorinceTawamba)
+
+![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=007ec6&style=plastic)
