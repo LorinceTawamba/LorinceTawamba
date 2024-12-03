@@ -8,7 +8,7 @@
 
 
 
-[![Image of https://github.com/gayanvoice/my-profile-views-counter](https://github.com/gayanvoice/my-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/gayanvoice/my-profile-views-counter)
+[![Image of https://github.com/gayanvoice/my-profile-views-counter](https://github.com/gayanvoice/my-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/gayanvoice/my-profile-views-counter?color=007ec6&style=plastic)
 
 
 [![Lorince Tawamba profile views](https://u8views.com/api/v1/github/profiles/98036133/views/day-week-month-total-count.svg)](https://u8views.com/github/LorinceTawamba)
