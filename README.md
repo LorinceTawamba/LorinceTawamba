@@ -5,3 +5,5 @@
 A passionate software engineer from Cameroon living in Canada
 
 Texte explicatif ici. 
+
+<center>Voici comment centrer un texte</center>
