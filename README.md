@@ -2,9 +2,10 @@
 
 **<p align="center">A passionate software engineer from Cameroon living in Canada</p>**
 
-## 🛠 Skills 
-- **Front-end**
+## 🛠 Front-end 
 ![HTML](https://www.w3.org/html/logo/img/mark-only-icon.png)
+
+- **Front-end**
 
 - **Back-end**
 Image ici 
