@@ -1,7 +1,19 @@
 #  <h1 align="center">Hi 👋, I'm Lorince Tawamba</h1> 
 
-<p align="center">A passionate software engineer from Cameroon living in Canada</p> 
+**<p align="center">A passionate software engineer from Cameroon living in Canada</p>**
 
+## 🛠 Skills 
+- **Front-end**
+![HTML](https://www.w3.org/html/logo/img/mark-only-icon.png)
+
+- **Back-end**
+Image ici 
+
+- **DB**
+Image ici 
+
+- **Front-end**
+Image ici 
 
 ## Authors
 
@@ -9,6 +21,10 @@
 
 
 --------
+
+
+
+
 Languages and Tools:
 css3 git html5 javascript sass svelte typescript vuejs nuxtjs nuxtjs
 
