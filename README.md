@@ -4,8 +4,8 @@
 
 ## 🛠 Skills
 
-### Front-end
-![HTML5](https://github.com/LorinceTawamba/LorinceTawamba/blob/main/images/html5.png?raw=true) 
+### FRONT-END
+![HTML5](https://github.com/LorinceTawamba/LorinceTawamba/blob/main/images/html5.png=100x20) 
 
 
 
