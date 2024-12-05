@@ -16,7 +16,7 @@
 
 💬 Ask me about **Java, Spring, Testing, Angular, React, Docker, Github Action, ....** 
 
-📫 How to reach me info@tawamba.tech 
+📫 How to reach me lorince.tawamba@gmail.com  
 
 ⚡️ Fun fact **Make learning easy** 
 
