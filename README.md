@@ -30,7 +30,7 @@
 <p>
 <img src="https://github.com/LorinceTawamba/LorinceTawamba/blob/main/images/sql.png" alt="SQL" height="75" width="75" /> 
 
-<img src="https://github.com/LorinceTawamba/LorinceTawamba/blob/main/images/mysql.png" alt="Mysql" height="75" width="75" /> 
+<img src="https://github.com/LorinceTawamba/LorinceTawamba/blob/main/images/mysql.png" alt="Mysql" height="75" width="100" /> 
 
 <img src="https://github.com/LorinceTawamba/LorinceTawamba/blob/main/images/postgresql.png" alt="Postegresql" height="75" width="75" /> 
 </p> 
