@@ -3,7 +3,7 @@
 **<p align="center">A passionate software engineer from Cameroon living in Canada</p>**
 
 ## 🛠 Front-end 
-![HTML](https://www.w3.org/html/logo/img/mark-only-icon.png)
+![HTML5](file/html5.png)  
 
 - **Front-end**
 
