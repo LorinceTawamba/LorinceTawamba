@@ -5,7 +5,7 @@
 ## 🛠 Skills
 
 ### FRONT-END
-<img src="https://github.com/LorinceTawamba/LorinceTawamba/blob/main/images/html5.png" alt="HTML5" height="75" width="60" />
+<img src="https://github.com/LorinceTawamba/LorinceTawamba/blob/main/images/html5.png" alt="HTML5" height="75" width="75" />
 
 
 
