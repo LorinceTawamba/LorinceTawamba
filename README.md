@@ -1,6 +1,15 @@
 #  <h1 align="center">Hi 👋, I'm Lorince Tawamba</h1> 
 
-**<p align="center">A passionate software engineer from Cameroon living in Canada</p>**
+**<p align="center"><FONT size="10pt">A passionate software engineer from Cameroon living in Canada</FONT></p>**
+
+### Support 
+<p>
+<img src="https://github.com/LorinceTawamba/LorinceTawamba/blob/main/images/kofi.png" alt="Kofi" height="100" width="200" /> 
+
+<img src="https://github.com/LorinceTawamba/LorinceTawamba/blob/main/images/springboot.png" alt="Spring Boot" height="75" width="75" /> 
+</p>
+
+
 
 ## 🛠 Skills
 
