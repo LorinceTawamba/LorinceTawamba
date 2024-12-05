@@ -55,7 +55,7 @@
 
 ### DEVOPS 
 <p>
-<img src="https://github.com/LorinceTawamba/LorinceTawamba/blob/main/images/linux.jpeg" alt="Linux" height="75" width="75" /> 
+<img src="https://github.com/LorinceTawamba/LorinceTawamba/blob/main/images/linux.jpeg" alt="Linux" height="75" width="75" /> &nbsp;&nbsp;&nbsp; 
 
 <img src="https://github.com/LorinceTawamba/LorinceTawamba/blob/main/images/git.png" alt="Git" height="75" width="75" /> 
 
