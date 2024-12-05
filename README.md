@@ -71,6 +71,9 @@
 	<a href="https://www.linkedin.com/in/lorincetawamba/" target="_blank">
 		<img src="https://github.com/LorinceTawamba/LorinceTawamba/blob/main/images/linkedin.png" alt="Linkedin" height="30" width="30" />
 	</a> 
+	<a href="mailto:lorince.tawamba@gmail.com" target="_blank">
+		<img src="https://github.com/LorinceTawamba/LorinceTawamba/blob/main/images/gmail.png" alt="Linkedin" height="30" width="30" />
+	</a>
 	<a href="https://www.youtube.com/@LorinceTawamba" target="_blank">
 		<img src="https://github.com/LorinceTawamba/LorinceTawamba/blob/main/images/youtube.jpeg" alt="Youtube" height="30" width="30" />
 	</a>
