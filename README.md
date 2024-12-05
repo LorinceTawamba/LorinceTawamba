@@ -4,8 +4,8 @@
 
 ## 🛠 Support
 <p> 
-	<a href="https://ko-fi.com/@LorinceTawamba" target="_blank">
-		<img src="https://github.com/LorinceTawamba/LorinceTawamba/blob/main/images/kofi.png" alt="Kofi" height="100" width="200" /> 
+	<a href="https://ko-fi.com/lorincetawamba" target="_blank">
+		<img src="https://github.com/LorinceTawamba/LorinceTawamba/blob/main/images/kofi.png" alt="Kofi" height="50" width="200" /> 
 	</a> 
 </p>
 
