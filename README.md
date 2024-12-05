@@ -1,15 +1,12 @@
 #  <h1 align="center">Hi 👋, I'm Lorince Tawamba</h1> 
 
-**<p align="center"><FONT SIZE=+4>A passionate software engineer from Cameroon living in Canada</FONT></p>**
+### **<p align="center"><FONT SIZE=+4>A passionate software engineer from Cameroon living in Canada</FONT></p>**
 
 <p> 
 	<a href="https://ko-fi.com/lorincetawamba" target="_blank">
-		<img src="https://github.com/LorinceTawamba/LorinceTawamba/blob/main/images/kofi.png" alt="Kofi" height="50" width="150" /> 
+		<img src="https://github.com/LorinceTawamba/LorinceTawamba/blob/main/images/kofi.png" alt="Kofi" height="50" width="120" /> 
 	</a> 
 </p>
-
-
-dollars.jpg
 
 ## 🛠 Skills
 
