@@ -5,7 +5,7 @@
 ## 🛠 Support
 <p> 
 	<a href="https://ko-fi.com/lorincetawamba" target="_blank">
-		<img src="https://github.com/LorinceTawamba/LorinceTawamba/blob/main/images/kofi.png" alt="Kofi" height="50" width="200" /> 
+		<img src="https://github.com/LorinceTawamba/LorinceTawamba/blob/main/images/kofi.png" alt="Kofi" height="50" width="150" /> 
 	</a> 
 </p>
 
