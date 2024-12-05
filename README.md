@@ -33,6 +33,21 @@
 <img src="https://github.com/LorinceTawamba/LorinceTawamba/blob/main/images/mysql.png" alt="Mysql" height="75" width="75" /> 
 
 <img src="https://github.com/LorinceTawamba/LorinceTawamba/blob/main/images/postgresql.png" alt="Postegresql" height="75" width="75" /> 
+</p> 
+
+### DEVOPS 
+<p>
+<img src="https://github.com/LorinceTawamba/LorinceTawamba/blob/main/images/linux.jpeg" alt="Linux" height="75" width="75" /> 
+
+<img src="https://github.com/LorinceTawamba/LorinceTawamba/blob/main/images/git.pngg" alt="Git" height="75" width="75" /> 
+
+<img src="https://github.com/LorinceTawamba/LorinceTawamba/blob/main/images/docker.png" alt="Docker" height="75" width="75" /> 
+
+<img src="https://github.com/LorinceTawamba/LorinceTawamba/blob/main/images/githubaction.jpeg" alt="Github Action" height="75" width="75" /> 
+
+<img src="https://github.com/LorinceTawamba/LorinceTawamba/blob/main/images/githubaction.jpeg" alt="Github Action" height="75" width="75" /> 
+
+<img src="https://github.com/LorinceTawamba/LorinceTawamba/blob/main/images/gitlab.png" alt="Gitlab" height="75" width="75" />
 </p>
 
 ## Authors
