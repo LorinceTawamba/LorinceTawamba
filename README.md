@@ -17,6 +17,13 @@
 <img src="https://github.com/LorinceTawamba/LorinceTawamba/blob/main/images/Angular.svg" alt="Angular" height="90" width="100" /> 
 
 <img src="https://github.com/LorinceTawamba/LorinceTawamba/blob/main/images/react.svg" alt="React" height="75" width="75" />
+</p> 
+
+### BACK-END 
+<p>
+<img src="https://github.com/LorinceTawamba/LorinceTawamba/blob/main/images/java.png" alt="Java" height="75" width="75" /> 
+
+<img src="https://github.com/LorinceTawamba/LorinceTawamba/blob/main/images/springboot.png" alt="Spring Boot" height="75" width="75" /> 
 </p>
 
 
