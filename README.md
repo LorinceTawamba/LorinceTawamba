@@ -4,7 +4,7 @@
 
 ## 🛠 Front-end 
 
-- **Front-end**
+### Front-end
 ![HTML5](https://github.com/LorinceTawamba/LorinceTawamba/blob/main/images/html5.png?raw=true) 
 
 
