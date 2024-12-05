@@ -69,7 +69,7 @@
 ## Connect with me
 <p>  
 	<a href="mailto:lorince.tawamba@gmail.com" target="_blank">
-		<img src="https://github.com/LorinceTawamba/LorinceTawamba/blob/main/images/gmail.png" alt="Linkedin" height="75" width="75" />
+		<img src="https://github.com/LorinceTawamba/LorinceTawamba/blob/main/images/gmail.webp" alt="Linkedin" height="75" width="75" />
 	</a>
 	<a href="https://www.linkedin.com/in/lorincetawamba/" target="_blank">
 		<img src="https://github.com/LorinceTawamba/LorinceTawamba/blob/main/images/linkedin.png" alt="Linkedin" height="75" width="75" />
