@@ -39,11 +39,9 @@
 <p>
 <img src="https://github.com/LorinceTawamba/LorinceTawamba/blob/main/images/linux.jpeg" alt="Linux" height="75" width="75" /> 
 
-<img src="https://github.com/LorinceTawamba/LorinceTawamba/blob/main/images/git.pngg" alt="Git" height="75" width="75" /> 
+<img src="https://github.com/LorinceTawamba/LorinceTawamba/blob/main/images/git.png" alt="Git" height="75" width="75" /> 
 
 <img src="https://github.com/LorinceTawamba/LorinceTawamba/blob/main/images/docker.png" alt="Docker" height="75" width="75" /> 
-
-<img src="https://github.com/LorinceTawamba/LorinceTawamba/blob/main/images/githubaction.jpeg" alt="Github Action" height="75" width="75" /> 
 
 <img src="https://github.com/LorinceTawamba/LorinceTawamba/blob/main/images/githubaction.jpeg" alt="Github Action" height="75" width="75" /> 
 
