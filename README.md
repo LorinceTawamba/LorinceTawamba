@@ -3,6 +3,8 @@
 **<p align="center">A passionate software engineer from Cameroon living in Canada</p>**
 
 ## 🛠 Front-end 
+
+- **Front-end**
 ![HTML5](https://github.com/LorinceTawamba/LorinceTawamba/blob/main/images/html5.png?raw=true) 
 
 
