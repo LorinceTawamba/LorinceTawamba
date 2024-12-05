@@ -46,6 +46,13 @@
 <img src="https://github.com/LorinceTawamba/LorinceTawamba/blob/main/images/githubaction.jpeg" alt="Github Action" height="75" width="75" /> 
 
 <img src="https://github.com/LorinceTawamba/LorinceTawamba/blob/main/images/gitlab.png" alt="Gitlab" height="75" width="75" />
+</p> 
+
+## Connect with me
+<p> 
+	<a href="https://www.linkedin.com/in/lorincetawamba/" target="_blank">
+		<img src="https://github.com/LorinceTawamba/LorinceTawamba/blob/main/images/linkedin.png" alt="Linkedin" height="75" width="75" />
+	</a> 
 </p>
 
 ## Authors
