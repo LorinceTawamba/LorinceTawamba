@@ -24,20 +24,16 @@
 <img src="https://github.com/LorinceTawamba/LorinceTawamba/blob/main/images/java.png" alt="Java" height="75" width="75" /> 
 
 <img src="https://github.com/LorinceTawamba/LorinceTawamba/blob/main/images/springboot.png" alt="Spring Boot" height="75" width="75" /> 
+</p> 
+
+### DB 
+<p>
+<img src="https://github.com/LorinceTawamba/LorinceTawamba/blob/main/images/sql.png" alt="SQL" height="75" width="75" /> 
+
+<img src="https://github.com/LorinceTawamba/LorinceTawamba/blob/main/images/mysql.png" alt="Mysql" height="75" width="75" /> 
+
+<img src="https://github.com/LorinceTawamba/LorinceTawamba/blob/main/images/postgresql.png" alt="Postegresql" height="75" width="75" /> 
 </p>
-
-
-
-- **Front-end**
-
-- **Back-end**
-Image ici 
-
-- **DB**
-Image ici 
-
-- **Front-end**
-Image ici 
 
 ## Authors
 
