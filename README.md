@@ -14,7 +14,7 @@
 
 <img src="https://github.com/LorinceTawamba/LorinceTawamba/blob/main/images/typescript.png" alt="TypeScript" height="75" width="75" />
 
-<img src="https://github.com/LorinceTawamba/LorinceTawamba/blob/main/images/Angular.svg" alt="Angular" height="80" width="100" />
+<img src="https://github.com/LorinceTawamba/LorinceTawamba/blob/main/images/Angular.svg" alt="Angular" height="90" width="100" />
 </p>
 
 
