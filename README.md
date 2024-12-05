@@ -8,7 +8,9 @@
 <p>
 <img src="https://github.com/LorinceTawamba/LorinceTawamba/blob/main/images/html5.png" alt="HTML5" height="75" width="75" /> 
 
-<img src="https://github.com/LorinceTawamba/LorinceTawamba/blob/main/images/css3.png" alt="CSS3" height="75" width="75" />
+<img src="https://github.com/LorinceTawamba/LorinceTawamba/blob/main/images/css3.png" alt="CSS3" height="75" width="75" /> 
+
+<img src="https://github.com/LorinceTawamba/LorinceTawamba/blob/main/images/js.png" alt="JavaScript" height="75" width="75" />
 </p>
 
 
