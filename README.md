@@ -3,6 +3,11 @@
 <p align="center">A passionate software engineer from Cameroon living in Canada</p> 
 
 
+## Authors
+
+- [@LorinceTawamba](https://www.github.com/LorinceTawamba)
+
+
 --------
 Languages and Tools:
 css3 git html5 javascript sass svelte typescript vuejs nuxtjs nuxtjs
