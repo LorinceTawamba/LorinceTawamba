@@ -1,4 +1,4 @@
-#  <h1 align="center">Hi 👋, I'm Lorince Tawamba</h1> 
+#  <h1 align="center">Hi 👋, I'm Lorince TAWAMBA</h1> 
 
 ### **<p align="center">A passionate software engineer from Cameroon living in Canada</p>**
 
