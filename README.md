@@ -1,4 +1,4 @@
-# <h1 align="center">Hi 👋, I'm Lorince TAWAMBA</h1>
+<h1 align="center">Hi 👋, I'm Lorince TAWAMBA</h1>
 
 <p align="center">I'm a Consultant - Full Stack Software Developer  | Java | Spring Boot | React </p></div>
 
