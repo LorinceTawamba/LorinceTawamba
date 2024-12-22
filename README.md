@@ -1,6 +1,6 @@
-#  <h1 align="center">Hi 👋, I'm Lorince TAWAMBA</h1> 
+#  <div><h1 align="center">Hi 👋, I'm Lorince TAWAMBA</h1></div></br><p align="center">I'm a Consultant - Full Stack Software Developer  | Java | Spring Boot | React </p></div>
 
-### **<p align="center">A passionate software engineer from Cameroon living in Canada</p>**
+### **<div><p align="center">A passionate software engineer from Cameroon living in Canada</p><div>**
 
 <p> 
 	<a href="https://ko-fi.com/lorincetawamba" target="_blank">
