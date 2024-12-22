@@ -1,4 +1,6 @@
-#  <div><h1 align="center">Hi 👋, I'm Lorince TAWAMBA</h1></div></br><p align="center">I'm a Consultant - Full Stack Software Developer  | Java | Spring Boot | React </p></div>
+# <h1 align="center">Hi 👋, I'm Lorince TAWAMBA</h1>
+
+<p align="center">I'm a Consultant - Full Stack Software Developer  | Java | Spring Boot | React </p></div>
 
 ### **<div><p align="center">A passionate software engineer from Cameroon living in Canada</p><div>**
 
