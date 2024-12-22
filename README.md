@@ -1,4 +1,4 @@
-### <h1 align="center">Hi 👋, I'm Lorince TAWAMBA - Portfolio</h1> 
+### <h2 align="center">Hi 👋, I'm Lorince TAWAMBA - Portfolio</h2> 
 
 
 [![Website](https://img.shields.io/website?label=Haidara&style=for-the-badge&url=https://haidara.vercel.app)](https://haidara.vercel.app)
