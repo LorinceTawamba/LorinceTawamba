@@ -4,6 +4,12 @@
 
 ## <h3 align="center">A passionate Full Stack Software Developer from Cameroon living in Canada</h3>
 
+<p> 
+	<a href="https://ko-fi.com/lorincetawamba" target="_blank">
+		<img src="https://github.com/LorinceTawamba/LorinceTawamba/blob/main/images/kofi.png" alt="Kofi" height="50" width="120" /> 
+	</a> 
+</p>
+
 - 🌱 I like work on amazing goals
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2024 Goals: Contribute more to Open Source projects 
