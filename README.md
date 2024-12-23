@@ -10,31 +10,6 @@
 	</a> 
 </p>
 
-- 🌱 I like work on amazing goals
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2024 Goals: Contribute more to Open Source projects 
-- ⚡ Learning News Skills 
-- ⚡ Fun fact: I love to read and coding amazing thing
-
-
-//---------------------
-
-
-<h1 align="center">Hi 👋, I'm Lorince TAWAMBA</h1> 
-<h1 align="center">I'm a Consultant - Full Stack Software Developer  | Java | Spring Boot | React</h1>
-
-
-
-<p align="center">I'm a Consultant - Full Stack Software Developer  | Java | Spring Boot | React </p></div>
-
-### **<div><p align="center">A passionate software engineer from Cameroon living in Canada</p><div>**
-
-<p> 
-	<a href="https://ko-fi.com/lorincetawamba" target="_blank">
-		<img src="https://github.com/LorinceTawamba/LorinceTawamba/blob/main/images/kofi.png" alt="Kofi" height="50" width="120" /> 
-	</a> 
-</p>
-
 🔭 I'm currently working on **micro-services professional class** 
 
 👩‍💻 All of my projects are available at https://tawamba.tech/courses 
@@ -45,7 +20,7 @@
 
 📫 How to reach me lorince.tawamba@gmail.com  
 
-⚡️ Fun fact **Make learning easy** 
+⚡️ Fun fact **I love to read and coding amazing thing** 
 
 ## 🛠 Skills
 
