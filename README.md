@@ -1,11 +1,8 @@
 ### Hi 👋, I'm Lorince TAWAMBA - Portfolio 
 
-## I'm a Consultant - Full Stack Software Developer | Java | Spring Boot | React, Master Degree, and Freelancer | Available For Hire.
+## I'm a Consultant - Full Stack Software Developer | Java | Spring Boot | React, and Freelancer | Available For Hire.
 
-## I'm a FullStack Developer Software Engineer, Master Degree, and Freelancer Available For Hire.
-
-## 
-<h3 align="center">A passionate full Stack developer from Sénégal</h3>
+## <h3 align="center">A passionate Full Stack Software Developer from Cameroon living in Canada</h3>
 
 - 🌱 I like work on amazing goals
 - 👯 I’m looking to collaborate with other content creators
