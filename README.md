@@ -1,11 +1,10 @@
-### Hi 👋, I'm Lorince TAWAMBA - Portfolio
+### Hi 👋, I'm Lorince TAWAMBA - Portfolio 
 
+## I'm a Consultant - Full Stack Software Developer | Java | Spring Boot | React, Master Degree, and Freelancer | Available For Hire.
 
-[![Website](https://img.shields.io/website?label=Haidara&style=for-the-badge&url=https://haidara.vercel.app)](https://haidara.vercel.app)
-![Twitter Follow](https://img.shields.io/twitter/follow/Abouba7887?color=1DA1Flogo=twitter&style=for-the-badge)
+## I'm a FullStack Developer Software Engineer, Master Degree, and Freelancer Available For Hire.
 
-
-## I'm a FullStack Developer | Software Engineer, Master Degree, and Freelancer | Available For Hire.
+## 
 <h3 align="center">A passionate full Stack developer from Sénégal</h3>
 
 - 🌱 I like work on amazing goals
