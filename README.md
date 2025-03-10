@@ -10,19 +10,19 @@
 	</a> 
 </p>
 
-🔭 Je développe, je déploie et je gère les applications sur des serveurs virtuels et dans le cloud tout mettant sur pied mes propres pipelines. **Les microservices et la pratique DevOps font partir de mon quotidien.**  
+🔭 Je développe, je déploie et je gère les applications sur des serveurs virtuels et dans le cloud tout en mettant sur pied mes propres pipelines. **Les microservices et la pratique DevOps font partir de mon quotidien.**  
 
 👩‍💻 Tous mes projets sont disponibles sur https://tawamba.tech  
 
 📝 J'écris régulièrement des articles sur https://bloc.tawamba.tech 
 
-💬 Posez-moi des questions **Java, Spring, Testing, React, CI/CD, GitLab CI, Docker, Linux, Python, Ngnix, Ansible, ....** 
+💬 Posez-moi des questions sur **Java, Spring, Testing, React, CI/CD, GitLab CI, Docker, Linux, Python, Ngnix, Ansible, ....** 
 
 📫 Comment me joindre lorince.tawamba@gmail.com  
 
 ⚡️ Fait amusant **J'adore lire et coder des choses incroyables** 
 
-## 🛠 Skills : 
+## 🛠 Compétences : 
 
 ### Front-end : 
 
@@ -56,6 +56,12 @@
 		![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 	</a> &nbsp;&nbsp;&nbsp;
 </p>
+
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)  
+
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) 
+
+![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 
 
 ## Auteurs
