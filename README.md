@@ -14,7 +14,7 @@
 
 👩‍💻 Tous mes projets sont disponibles sur https://tawamba.tech  
 
-📝 J'écris régulièrement des articles sur https://bloc.tawamba.tech 
+📝 J'écris régulièrement des articles sur https://tawamba.tech 
 
 💬 Posez-moi des questions sur **Java, Spring, Testing, React, CI/CD, GitLab CI, Docker, Linux, Python, Ngnix, Ansible, ....** 
 
