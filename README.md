@@ -1,8 +1,8 @@
-### Hi 👋, I'm Lorince TAWAMBA - Portfolio 
+### Lorince TAWAMBA - Portfolio 
 
-## Consultant | Full Stack Software Developer | DevOps.
+**Consultant | Full Stack Software Developer | DevOps**
 
-## <h3 align="center">A passionate Full Stack Software Developer and DevOps living in Canada</h3>
+### A passionate Full Stack Software Developer and DevOps living in Canada
 
 <p> 
 	<a href="https://ko-fi.com/lorincetawamba" target="_blank">
