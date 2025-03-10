@@ -45,17 +45,6 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
 
 ## Connectez-vous avec moi
-<p>  
-	<a href="mailto:lorince.tawamba@gmail.com" target="_blank">
-		![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
-	</a> &nbsp;&nbsp;&nbsp;
-	<a href="https://www.linkedin.com/in/lorincetawamba/" target="_blank">
-		![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-	</a> &nbsp;&nbsp;&nbsp;
-	<a href="https://www.youtube.com/@LorinceTawamba" target="_blank">
-		![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
-	</a> &nbsp;&nbsp;&nbsp;
-</p>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lorince.tawamba@gmail.com)  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorincetawamba/)  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@LorinceTawamba)
 
