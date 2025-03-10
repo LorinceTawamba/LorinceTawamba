@@ -47,16 +47,13 @@
 ## Connect with me
 <p>  
 	<a href="mailto:lorince.tawamba@gmail.com" target="_blank">
-		<img src="https://github.com/LorinceTawamba/LorinceTawamba/blob/main/images/gmail.webp" alt="Linkedin" height="75" width="75" /> 
+		![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
 	</a> &nbsp;&nbsp;&nbsp;
 	<a href="https://www.linkedin.com/in/lorincetawamba/" target="_blank">
-		<img src="https://github.com/LorinceTawamba/LorinceTawamba/blob/main/images/linkedin.png" alt="Linkedin" height="75" width="75" /> 
+		![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 	</a> &nbsp;&nbsp;&nbsp;
 	<a href="https://www.youtube.com/@LorinceTawamba" target="_blank">
-		<img src="https://github.com/LorinceTawamba/LorinceTawamba/blob/main/images/youtube.jpeg" alt="Youtube" height="75" width="75" /> 
-	</a> &nbsp;&nbsp;&nbsp;
-	<a href="https://www.x.com/@LorinceTawamba" target="_blank">
-		<img src="https://github.com/LorinceTawamba/LorinceTawamba/blob/main/images/x.png" alt="X" height="75" width="75" /> 
+		![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 	</a> &nbsp;&nbsp;&nbsp;
 </p>
 
