@@ -1,8 +1,8 @@
 ### Hi 👋, I'm Lorince TAWAMBA - Portfolio 
 
-## I'm a Consultant - Full Stack Software Developer | Java | Spring Boot | React, and Freelancer | Available For Hire.
+## I'm a Consultant - Full Stack Software Developer | DevOps.
 
-## <h3 align="center">A passionate Full Stack Software Developer from Cameroon living in Canada</h3>
+## <h3 align="center">A passionate Full Stack Software Developer and DevOps living in Canada</h3>
 
 <p> 
 	<a href="https://ko-fi.com/lorincetawamba" target="_blank">
