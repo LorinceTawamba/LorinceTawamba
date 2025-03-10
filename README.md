@@ -2,7 +2,7 @@
 
 ### Consultant - Full Stack Software Developer - DevOps 
 
-### A passionate Full Stack Software Developer and DevOps living in Canada
+### Passionné du développement de logiciels et du DevOps, je réside au Québec.  
 
 <p> 
 	<a href="https://ko-fi.com/lorincetawamba" target="_blank">
@@ -10,19 +10,18 @@
 	</a> 
 </p>
 
-🔭 I'm currently working on **micro-services professional class** 
+🔭 Je développe, je déploie et je gère les applications sur des serveurs virtuels et dans le cloud tout mettant sur pied mes propres pipelines. **Les microservices et la pratique DevOps font partir de mon quotidien.**  
 
-👩‍💻 All of my projects are available at https://tawamba.tech/courses 
+👩‍💻 Tous mes projets sont disponibles sur https://tawamba.tech  
 
-📝 I regularly write articles on https://tawamba.tech 
+📝 J'écris régulièrement des articles sur https://bloc.tawamba.tech 
 
-💬 Ask me about **Java, Spring, Testing, Angular, React, Docker, Github Action, ....** 
+💬 Posez-moi des questions **Java, Spring, Testing, React, CI/CD, GitLab CI, Docker, Linux, Python, SonarQube, Ngnix, Ansible, ....** 
+📫 Comment me joindre lorince.tawamba@gmail.com  
 
-📫 How to reach me lorince.tawamba@gmail.com  
+⚡️ Fait amusant **J'adore lire et coder des choses incroyables** 
 
-⚡️ Fun fact **I love to read and coding amazing thing** 
-
-## 🛠 I use this daily : 
+## 🛠 Skills : 
 
 ### Front-end : 
 
@@ -44,7 +43,7 @@
 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
 
-## Connect with me
+## Connectez-vous avec moi
 <p>  
 	<a href="mailto:lorince.tawamba@gmail.com" target="_blank">
 		![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
@@ -58,6 +57,6 @@
 </p>
 
 
-## Authors
+## Auteurs
 
 - [@LorinceTawamba](https://www.github.com/LorinceTawamba)
