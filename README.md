@@ -1,6 +1,6 @@
 ### Lorince TAWAMBA - Portfolio 
 
-### Consultant - Full Stack Software Developer - DevOps 
+### Consultant - Développeur de logiciels - DevOps 
 
 ### Passionné du développement de logiciels et du DevOps, je réside au Québec.  
 
