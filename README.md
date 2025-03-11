@@ -1,14 +1,9 @@
-### Lorince TAWAMBA - Portfolio 
+# Salut! Content de te voir 
 
-### Consultant - Développeur de logiciels - DevOps 
+Bienvenue sur ma page ! 
+Je suis Lorince, Développeur de logiciels et DevOps de **Sorel-Tracy, Québec, Canada**. J'aime partager mes connaissances et vous pouvez accéder à tous les exemples de mes projets.
 
-### Passionné du développement de logiciels et du DevOps, je réside au Québec.  
-
-<p> 
-	<a href="https://ko-fi.com/lorincetawamba" target="_blank">
-		<img src="https://github.com/LorinceTawamba/LorinceTawamba/blob/main/images/kofi.png" alt="Kofi" height="50" width="120" /> 
-	</a> 
-</p>
+## 📝 Détails :
 
 🔭 Je développe, je déploie et je gère les applications sur des serveurs virtuels et dans le cloud tout en mettant sur pied mes propres pipelines. **Les microservices et la pratique DevOps font partir de mon quotidien.**  
 
@@ -48,7 +43,13 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lorince.tawamba@gmail.com)  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorincetawamba/)  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@LorinceTawamba)
 
+## Mes liens :
+
+* [Mon blog](https://blog.tawamba.tech/post/)
+* [Formation Développeur Full Stack](https://formation.tawamba.tech/dev-full-stack/)
+* [Formation DevOps](https://formation.tawamba.tech/devops/)
 
 ## Auteurs
 
 - [@LorinceTawamba](https://www.github.com/LorinceTawamba)
+
