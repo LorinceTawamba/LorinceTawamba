@@ -66,7 +66,7 @@
 ---
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jaiswaladi246&limit=5&theme=flat&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=LorinceTawamba&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 ---
 
@@ -75,6 +75,6 @@
 🎤 Available for **Guest Sessions / Webinars**  
 🤝 Open to **Project Collaborations / YouTube Collabs**  
 💼 Offering **DevOps Consulting / Mentorship**  
-📧 Let’s chat: [office@devopsshack.com](mailto:office@devopsshack.com)
+📧 Let’s chat: [lorince.tawamba@gmail.com](mailto:lorince.tawamba@gmail.com)
 
-> *"Helping people crack DevOps with real-world knowledge. Let’s build and automate the future, one pipeline at a time!"*
+> *"My main aim is to help companies produce robust, reliable software through a fully automated process, from development right through to production and operation!"*
