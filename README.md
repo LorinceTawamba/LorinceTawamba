@@ -7,8 +7,8 @@
 <h3 align="center">A passionate DevOps Engineer from Canada. I work in the Corporate IT Sector and in my free time I make YouTube videos at <a href="https://www.youtube.com/@LorinceTawamba" target="_blank">LorinceTawamba</a></h3>
 
 <p align="center">
-  <a href="https://github.com/jaiswaladi246">
-    <img src="https://img.shields.io/github/followers/jaiswaladi246?label=Follow&style=social" />
+  <a href="https://github.com/LorinceTawamba">
+    <img src="https://img.shields.io/github/followers/LorinceTawamba?label=Follow&style=social" />
   </a>
   <a href="https://www.youtube.com/@devopsshack">
     <img src="https://img.shields.io/youtube/channel/subscribers/UC1XLb_DoX2eNWGKjkh2epwA?style=social" />
