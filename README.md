@@ -21,12 +21,12 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=LorinceTawamba&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/jaiswaladi246](https://github.com/jaiswaladi246)  
+- 👨‍💻 All of my projects are available at [https://github.com/LorinceTawamba](https://github.com/LorinceTawamba)  
 - 💬 Ask me about **DevOps & Cloud DevOps**  
-- 📫 How to reach me **office@devopsshack.com**
+- 📫 How to reach me **lorince.tawamba@gmail.com**
 
 ---
 
