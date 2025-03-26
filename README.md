@@ -4,7 +4,7 @@
   <img src="https://github.com/LorinceTawamba/LorinceTawamba/blob/main/images/Banner.png" alt="LorinceTawamba Banner">
 </div>
 
-<h3 align="center">A passionate DevOps Engineer from India. I work in the Corporate IT Sector and in my free time I make YouTube videos at <a href="https://www.youtube.com/@devopsshack" target="_blank">DevOpsShack</a></h3>
+<h3 align="center">A passionate DevOps Engineer from Canada. I work in the Corporate IT Sector and in my free time I make YouTube videos at <a href="https://www.youtube.com/@LorinceTawamba" target="_blank">LorinceTawamba</a></h3>
 
 <p align="center">
   <a href="https://github.com/jaiswaladi246">
