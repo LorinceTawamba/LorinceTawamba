@@ -10,7 +10,7 @@
   <a href="https://github.com/LorinceTawamba">
     <img src="https://img.shields.io/github/followers/LorinceTawamba?label=Follow&style=social" />
   </a>
-  <a href="https://www.youtube.com/@devopsshack">
+  <a href="https://www.youtube.com/@LorinceTawamba">
     <img src="https://img.shields.io/youtube/channel/subscribers/UC1XLb_DoX2eNWGKjkh2epwA?style=social" />
   </a>
   <a href="https://linkedin.com/in/LorinceTawamba">
