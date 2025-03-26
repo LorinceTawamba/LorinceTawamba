@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/github/followers/LorinceTawamba?label=Follow&style=social" />
   </a>
   <a href="https://www.youtube.com/@LorinceTawamba">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UC1XLb_DoX2eNWGKjkh2epwA?style=social" />
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCn-f2z9nhe11V20bTXktb_w?style=social" />
   </a>
   <a href="https://linkedin.com/in/LorinceTawamba">
     <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Jaiswal-blue?logo=linkedin&style=flat-square" />
