@@ -26,7 +26,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/LorinceTawamba](https://github.com/LorinceTawamba)  
 - 💬 Ask me about **DevOps & Cloud DevOps**  
-- 📫 How to reach me **lorince.tawamba@gmail.com**
+- 📫 How to reach me **lorince.tawamba@tawamba.tech**
 
 ---
 
@@ -75,6 +75,6 @@
 🎤 Available for **Guest Sessions / Webinars**  
 🤝 Open to **Project Collaborations / YouTube Collabs**  
 💼 Offering **DevOps Consulting / Mentorship**  
-📧 Let’s chat: [lorince.tawamba@gmail.com](mailto:lorince.tawamba@gmail.com)
+📧 Let’s chat: [lorince.tawamba@tawamba.tech](mailto:lorince.tawamba@tawamba.tech)
 
 > *"My main aim is to help companies produce robust, reliable software through a fully automated process, from development right through to production and operation!"*
