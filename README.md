@@ -1,80 +1,149 @@
-<h1 align="center">Hey Everyone 👋, I'm Lorince Tawamba</h1>
+# 👋 Hello, I'm Lorince TAWAMBA.
 
 <div align="center">
-  <img src="https://github.com/LorinceTawamba/LorinceTawamba/blob/main/images/Banner.png" alt="LorinceTawamba Banner">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Systems+%26+Network+Engineer;Cloud+%26+DevOps+Specialist;Cybersecurity+Professional" alt="Typing SVG" />
+
+**🌍 Based in Sorel-Tracy, Quebec, Canada | 🎯 Open to any opportunity because I am a passionate**
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://lorince.tawamba.tech/)
+[![GitHub](https://img.shields.io/badge/github-black?logo=github&style=for-the-badge)](https://github.com/LorinceTawamba)
+[![GitLab Pro](https://img.shields.io/badge/gitlab-pro-blue?logo=gitlab&style=for-the-badge)](https://gitlab.com/tawamba)
+[![LinkedIn](https://img.shields.io/badge/linkedin-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/LorinceTawamba)
+
+📧 **lorince.tawamba@tawamba.tech** | 📱 **+1 579 363-1036**
+
 </div>
 
-<h3 align="center">A passionate DevOps Engineer from Canada. I work in the Corporate IT Sector and in my free time I make YouTube videos at <a href="https://www.youtube.com/@LorinceTawamba" target="_blank">LorinceTawamba</a></h3>
+---
 
-<p align="center">
-  <a href="https://github.com/LorinceTawamba">
-    <img src="https://img.shields.io/github/followers/LorinceTawamba?label=Follow&style=social" />
-  </a>
-  <a href="https://www.youtube.com/@LorinceTawamba">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UCn-f2z9nhe11V20bTXktb_w?style=social" />
-  </a>
-  <a href="https://linkedin.com/in/LorinceTawamba">
-    <img src="https://img.shields.io/badge/LinkedIn-Lorince%20Tawamba-blue?logo=linkedin&style=flat-square" />
-  </a>
-</p>
+## 🚀 About Me 
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+```yaml
+name: Lorince TAWAMBA
+role: Fullstack | DevOps | Cloud 
+specialization: [Event-driven Microservices Architecture, DevOps, Cloud]
+current_position: DevOps @ TAWAMBA TECH INC.
+location: Sorel-Tracy, Québec, Canada
+seeking: International opportunities
+```
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=LorinceTawamba&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+**Passionate full-stack developer** with **hands-on experience** in DevOps processes and tools to help businesses deliver faster, more often, and securely.
 
-- 👨‍💻 All of my projects are available at [https://github.com/LorinceTawamba](https://github.com/LorinceTawamba)  
-- 💬 Ask me about **DevOps & Cloud DevOps**  
-- 📫 How to reach me **lorince.tawamba@tawamba.tech**
+🎯 **What I do:**
+- Infrastructure as Code (IaC) on-premise or Cloud 
+- Architect and migrate cloud infrastructures (Azure)
+- Design automated CI/CD pipelines that reduce deployment time by **40%**
+- Implement robust security frameworks and monitoring solutions
+- Build a Spring Boot application and ReactJS application 
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/LorinceTAwamba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/@LorinceTawamba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
-</p>
+## 💼 Professional Experience
 
-## 🛠 Languages and Tools:
+<details>
+<summary><strong>🏢 Fullstack & DevOps @ TAWAMBA TECH INC.</strong> <em>(September 2024 - Present)</em></summary>
 
-### Front-end : 
+**Key Achievements:**
+- 🔄 **Successfully migrated** AWS architecture to Kubernetes using EKS, Terraform, Helm, and ArgoCD
+- ⚡ **Reduced deployment times by 40%** through GitLab CI/CD automation
+- 💰 **Cut cloud costs by 15%** via Docker & Kubernetes containerization
+- 📊 **Implemented observability** with Prometheus monitoring stack. 
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+**Technologies:** Proxmox, Terraform, Pulumi, Ansible, Azure, AWS, Docker, Kubernetes, GitLab CI, Nexus, Nginx, Prometheus, Grafana, Alloy, Tempo, OpenTelemetry
 
-### Back-end : 
+</details>
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+<details>
+<summary><strong>💻 Software developer @ Fresche Solutions Inc.</strong> <em>(May 2023 - August 2024 )</em></summary>
 
-### Base de données :  
+- Design Spring Boot microservices for transforming RPG applications into Java
+- Implement unit and integration tests with JUnit and Testcontainers
+- Migrate legacy services to an architecture based on Spring Boot microservices
+- Automate deployment with GitLab CI/CD and Docker
+- Participate in code reviews and the continuous improvement of DevOps practices  
+- Write technical specifications and architecture documents 
+- Collaborate with multidisciplinary teams in Agile (Scrum) mode 
+- Document the API with Swagger/OpenAPI 
 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### DevOps : 
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-### Orther : 
-
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
-
----
-### 🔥 GitHub Contribution Streak
-
-![GitHub Streak Badge](https://img.shields.io/badge/GitHub%20Streak-Active-brightgreen?logo=github&style=for-the-badge)
+</details>
 
 ---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=LorinceTawamba&limit=5&theme=flat&combine_all_yearly_contributions=true)
+## 🛠️ Technical Arsenal
+
+<div align="center">
+
+### ☁️ Cloud & Infrastructure 
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### ⚙️ DevOps & Automation
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Pulumi](https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### 🔐 Security & Networking
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white) 
+
+### 🧱 Serveur Web & Databases 
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
+
+### Architecture Microservices Orientée évenement 
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+### 📊 Monitoring
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Alloy](https://img.shields.io/badge/Alloy-6C4C9C?style=for-the-badge&logo=alloy&logoColor=white) 
+![Tempo](https://img.shields.io/badge/Tempo-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
+
+
+</div>
 
 ---
 
-### 👨‍💼 About Me & 🤝 Open to Collaborations
+## 🌍 Languages & Interests
 
-🎤 Available for **Guest Sessions / Webinars**  
-🤝 Open to **Project Collaborations / YouTube Collabs**  
-💼 Offering **DevOps Consulting / Mentorship**  
-📧 Let’s chat: [lorince.tawamba@tawamba.tech](mailto:lorince.tawamba@tawamba.tech)
+<div align="center">
 
-> *"My main aim is to help companies produce robust, reliable software through a fully automated process, from development right through to production and operation!"*
+**🗣️ Languages:**  
+🇫🇷 **French** | 🇬🇧 **English**
+
+**🎯 Interests:**  
+💻 Emerging Technologies | 🎬 Cinema | 🌐 Cloud Trends.
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LorinceTawamba&theme=tokyo-night" alt="Contribution Graph"/>
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+I'm always excited to collaborate on innovative projects and discuss the latest in cloud technologies and cybersecurity!!!
+
+[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lorince.tawamba@tawamba.tech)
+<!-- [![Schedule Call](https://img.shields.io/badge/Schedule_Call-00C851?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+237695356718) -->
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://lorince.tawamba.tech)
+
+---
+
+**✨ _"Building secure, automated, and scalable infrastructures—one deployment at a time."_ ✨**
+
+</div>
