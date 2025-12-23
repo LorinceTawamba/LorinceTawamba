@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Fullstack;DevOps;Cloud+%26+DevOps+Specialist;Cybersecurity+Professional" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Fullstack+developer;DevOps+Specialist" alt="Typing SVG" />
 
 **🌍 Based in Sorel-Tracy, Quebec, Canada | 🎯 Open to any opportunity because I am a passionate**
 
