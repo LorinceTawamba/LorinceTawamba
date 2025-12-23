@@ -5,11 +5,10 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Systems+%26+Network+Engineer;Cloud+%26+DevOps+Specialist;Cybersecurity+Professional" alt="Typing SVG" />
 
 **🌍 Based in Sorel-Tracy, Quebec, Canada | 🎯 Open to any opportunity because I am a passionate**
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://lorince.tawamba.tech/)
-[![GitHub](https://img.shields.io/badge/github-black?logo=github&style=for-the-badge)](https://github.com/LorinceTawamba)
-[![GitLab](https://img.shields.io/badge/gitlab?logo=gitlab&style=for-the-badge)](https://gitlab.com/tawamba)
-[![LinkedIn](https://img.shields.io/badge/linkedin-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/LorinceTawamba)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=portfolio&logoColor=white)](https://lorince.tawamba.tech/) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LorinceTawamba)
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/tawamba)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/LorinceTawamba) 
 
 📧 **lorince.tawamba@tawamba.tech** | 📱 **+1 579 363-1036**
 
