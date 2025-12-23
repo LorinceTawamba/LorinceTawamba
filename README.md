@@ -5,6 +5,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Systems+%26+Network+Engineer;Cloud+%26+DevOps+Specialist;Cybersecurity+Professional" alt="Typing SVG" />
 
 **🌍 Based in Sorel-Tracy, Quebec, Canada | 🎯 Open to any opportunity because I am a passionate**
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=portfolio&logoColor=white)](https://lorince.tawamba.tech/) 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LorinceTawamba)
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/tawamba)
