@@ -8,7 +8,7 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://lorince.tawamba.tech/)
 [![GitHub](https://img.shields.io/badge/github-black?logo=github&style=for-the-badge)](https://github.com/LorinceTawamba)
-[![GitLab Pro](https://img.shields.io/badge/gitlab-pro-blue?logo=gitlab&style=for-the-badge)](https://gitlab.com/tawamba)
+[![GitLab](https://img.shields.io/badge/gitlab?logo=gitlab&style=for-the-badge)](https://gitlab.com/tawamba)
 [![LinkedIn](https://img.shields.io/badge/linkedin-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/LorinceTawamba)
 
 📧 **lorince.tawamba@tawamba.tech** | 📱 **+1 579 363-1036**
