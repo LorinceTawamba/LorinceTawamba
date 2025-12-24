@@ -33,7 +33,7 @@ seeking: International opportunities
 🎯 **What I do:**
 - Infrastructure as Code (IaC) on-premise or Cloud 
 - Architect and migrate cloud infrastructures (Azure)
-- Design automated CI/CD pipelines that reduce deployment time by **40%**
+- Design automated CI/CD pipelines that reduce deployment time by **50%**
 - Implement robust security frameworks and monitoring solutions
 - Build a Spring Boot application and ReactJS application 
 
