@@ -46,7 +46,7 @@ seeking: International opportunities
 
 **Key Achievements:**
 - 🔄 **Successfully migrated** AWS architecture to Kubernetes using EKS, Terraform, Helm, and ArgoCD
-- ⚡ **Reduced deployment times by 40%** through GitLab CI/CD automation
+- ⚡ **Reduced deployment times by 50%** through GitLab CI/CD automation
 - 💰 **Cut cloud costs by 15%** via Docker & Kubernetes containerization
 - 📊 **Implemented observability** with Prometheus monitoring stack. 
 
@@ -64,7 +64,9 @@ seeking: International opportunities
 - Participate in code reviews and the continuous improvement of DevOps practices  
 - Write technical specifications and architecture documents 
 - Collaborate with multidisciplinary teams in Agile (Scrum) mode 
-- Document the API with Swagger/OpenAPI 
+- Document the API with Swagger/OpenAPI  
+
+**Technologies:** Java 11 & 17, Spring Boot, Spring MVC, Maven, PostgreSQL, JUnit, Docker, SonarQube, Git, GitLab CI, JIRA, Confluence, Artifactory
 
 </details>
 
