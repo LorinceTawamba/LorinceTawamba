@@ -22,7 +22,7 @@
 ```yaml
 name: Lorince TAWAMBA
 role: Fullstack developer | DevOps Specialist | Cloud Specialist
-specialization: [Event-driven Microservices Architecture, DevOps, Cloud]
+specialization: Event-driven Microservices Architecture, DevOps & Cloud
 current_position: DevOps @ TAWAMBA TECH INC.
 location: Sorel-Tracy, Québec, Canada
 seeking: International opportunities
