@@ -11,7 +11,7 @@
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/tawamba)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/LorinceTawamba) 
 
-📧 **lorince.tawamba@tawamba.tech** | 📱 **+1 579 363-1036**
+📧 **lorince.tawamba@tawamba.tech** 
 
 </div>
 
