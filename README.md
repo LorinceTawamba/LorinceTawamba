@@ -45,26 +45,27 @@ seeking: International opportunities
 <summary><strong>🏢 DevOps & Fullstack developer @ TAWAMBA TECH INC. in Sorel-Tracy</strong> <em>(September 2024 - Present)</em></summary>
 
 **Key Achievements:**
-- 🔄 **Successfully migrated** AWS architecture to Kubernetes using EKS, Terraform, Helm, and ArgoCD
+- 🔄 **Successful implementation** of a fully automated virtual network (**develop**, **staging**, **production**)
 - ⚡ **Reduced deployment times by 50%** through GitLab CI/CD automation
 - 💰 **Cut cloud costs by 15%** via Docker & Kubernetes containerization
 - 📊 **Implemented observability** with Prometheus monitoring stack. 
+- 🧑‍🤝‍🧑 **Construction and deployment** of a birth registration platform in a town hall. 
 
-**Technologies:** Proxmox, Terraform, Pulumi, Ansible, Azure, AWS, Docker, Kubernetes, GitLab CI, Nexus, Nginx, Prometheus, Grafana, Alloy, Tempo, OpenTelemetry
+**Technologies:** Proxmox, Terraform, Pulumi, Ansible, Azure, AWS, Docker, Kubernetes, GitLab CI, Nexus, Nginx, Prometheus, Grafana, Alloy, Tempo, OpenTelemetry, Java 21, Spring Boot, MongoDB, ReactJS. 
 
 </details>
 
 <details>
 <summary><strong>💻 Software developer @ Fresche Solutions Inc. in Montreal</strong> <em>(May 2023 - August 2024 )</em></summary>
 
-- Design Spring Boot microservices for transforming RPG applications into Java
-- Implement unit and integration tests with JUnit and Testcontainers
-- Migrate legacy services to an architecture based on Spring Boot microservices
-- Automate deployment with GitLab CI/CD and Docker
-- Participate in code reviews and the continuous improvement of DevOps practices  
-- Write technical specifications and architecture documents 
-- Collaborate with multidisciplinary teams in Agile (Scrum) mode 
-- Document the API with Swagger/OpenAPI  
+- 🧩 **Design Spring Boot microservices** for transforming RPG applications into Java
+- 🛠️ **Implement unit and integration tests** with JUnit and Testcontainers
+- 🧱 **Migrate legacy services** to an architecture based on Spring Boot microservices
+- 🌐 **Automate deployment** with GitLab CI/CD and Docker
+- 👨‍💻 **Participate in code reviews** and the continuous improvement of DevOps practices  
+- 📝 **Write technical specifications** and architecture documents 
+- 🧑‍🤝‍🧑 **Collaborate with multidisciplinary teams** in Agile (Scrum) mode 
+- 📚 **Document the API** with Swagger/OpenAPI  
 
 **Technologies:** Java 11 & 17, Spring Boot, Spring MVC, Maven, PostgreSQL, JUnit, Docker, SonarQube, Git, GitLab CI, JIRA, Confluence, Artifactory
 
