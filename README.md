@@ -42,7 +42,7 @@ seeking: International opportunities
 ## 💼 Professional Experience
 
 <details>
-<summary><strong>🏢 Fullstack & DevOps @ TAWAMBA TECH INC.</strong> <em>(September 2024 - Present)</em></summary>
+<summary><strong>🏢 DevOps & Fullstack developer @ TAWAMBA TECH INC.</strong> <em>(September 2024 - Present)</em></summary>
 
 **Key Achievements:**
 - 🔄 **Successfully migrated** AWS architecture to Kubernetes using EKS, Terraform, Helm, and ArgoCD
