@@ -76,7 +76,7 @@ seeking: International opportunities
 
 <div align="center">
 
-### ☁️ Cloud & Infrastructure 
+### ☁️ Infrastructure & Cloud  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) 
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
