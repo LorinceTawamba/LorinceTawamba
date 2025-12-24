@@ -25,7 +25,7 @@ role: Fullstack developer | DevOps Specialist | Cloud Specialist
 specialization: Event-driven Microservices Architecture, DevOps & Cloud
 current_position: Fullstack developer & DevOps @ TAWAMBA TECH INC.
 location: Sorel-Tracy, Québec, Canada
-seeking: International opportunities
+seeking: International opportunities 
 ```
 
 **Passionate full-stack developer** with **hands-on experience** in DevOps processes and tools to help businesses deliver faster, more often, and securely.
